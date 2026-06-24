@@ -59,7 +59,7 @@ This project is a **Power BI Sales Performance Dashboard** built to visualize sa
 
 <div align="center">
 
-<img src="./assets/dashboard.png" width="1000" alt="Sales Performance Dashboard">
+<img src="./dashboard.png" width="1000" alt="Sales Performance Dashboard">
 
 </div>
 
